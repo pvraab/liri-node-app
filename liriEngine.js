@@ -10,69 +10,127 @@ require("dotenv").config();
 // Load Spotify node API
 var Spotify = require('node-spotify-api');
 
+// Load the FileSystem library
+var fs = require("fs");
+
 // Load the Spotify keys
 var keys = require("./keys.js");
 
 var spotify = new Spotify(keys.spotify);
 
-// Bands In Town function
-var bandsInTown = function (artistName) {
-    axios.get("https://rest.bandsintown.com/artists/" + artistName + "/events?app_id=codingbootcamp")
-        .then(function (response) {
-            var jsonObj = response.data;
-            jsonObj.forEach(function (elem, i) {
-                console.log("Venue: " + elem.venue.name);
-                console.log("Location: " + elem.venue.city + ", " + elem.venue.region + ", " + elem.venue.country);
-                console.log("Date/Time: " + elem.datetime);
+var Liri = function () {
+
+    // Bands In Town function
+    this.bandsInTownFunction = function (artistName) {
+        axios.get("https://rest.bandsintown.com/artists/" + artistName + "/events?app_id=codingbootcamp")
+            .then(function (response) {
+                var jsonObj = response.data;
+                jsonObj.forEach(function (elem, i) {
+                    if (i === 0) {
+                        console.log("\n");
+                        console.log("concert-this " + artistName);
+                        fs.appendFile("log.txt", "concert-this " + artistName + "\n", function (err) {
+                            if (err) {
+                                console.log(err);
+                            }
+                        });    
+                    }
+                    var outStr = "Venue: " + elem.venue.name + "\n" +
+                        "Location: " + elem.venue.city + ", " + elem.venue.region + ", " + elem.venue.country + "\n" +
+                        "Date/Time: " + elem.datetime + "\n" +
+                        "==========================================================";
+                    console.log(outStr);
+                    fs.appendFile("log.txt", outStr + "\n", function (err) {
+                        if (err) {
+                            console.log(err);
+                        }
+                    });
+                });
+            })
+            .catch(function (error) {
+                console.log(error);
             });
-        })
-        .catch(function (error) {
-            console.log(error);
-        });
-};
+    };
 
-// Spotify function
-var spotifyFunction = function (songName) {
-    spotify.search({
-        type: 'track',
-        query: songName
-    }, function (err, data) {
-        if (err) {
-            return console.log('Error occurred: ' + err);
-        }
-        console.log(JSON.stringify(data.tracks.items[0]));
-        console.log("Artists: " + data.tracks.items[0].artists[0].name);
-        console.log("Song Name: " + data.tracks.items[0].name);
-        console.log("URL: " + data.tracks.items[0].album.external_urls.spotify);
-        console.log("Album Name: " + data.tracks.items[0].album.name);
-
-    });
-};
-
-// OmDbApi Movies function
-var omDbApiFunction = function (movieName) {
-    var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
-    axios.get(queryUrl).then(
-        function (response) {
-            console.log(response.data);
-            console.log("Movie Title: " + movieName);
-            console.log("Year: " + response.data.year);
-            console.log("The movie's rating is: " + response.data.imdbRating);
-            var isRotten = false;
-            response.data.Ratings.forEach( function(elem, i) {
-                if (elem.Source === "Rotten Tomatoes") {
-                    console.log("Rotten Tomatoes rating is: " + elem.Value);
-                    isRotten = true;
-                }
-            });
-            if (!isRotten) {
-                console.log("Rotten Tomatoes rating is: none");
+    // Spotify function
+    this.spotifyFunction = function (songName) {
+        spotify.search({
+            type: 'track',
+            query: songName
+        }, function (err, data) {
+            if (err) {
+                return console.log('Error occurred: ' + err);
             }
-            console.log("Country movie produced in: " + response.data.Country);
-            console.log("Language: " + response.data.Language);
-            console.log("Plot: " + response.data.Plot);
-            console.log("Actors: " + response.data.Actors);
-        }
-    );
+            for (var i = 0; i < data.tracks.items.length; i++) {
+                if (i === 0) {
+                    console.log("\n");
+                    console.log("spotify-this-song " + songName);
+                    fs.appendFile("log.txt", "spotify-this-song " + songName + "\n", function (err) {
+                        if (err) {
+                            console.log(err);
+                        }
+                    });
+                }
+                var outStr = "Artists: " + data.tracks.items[i].artists[0].name + "\n" +
+                    "Song Name: " + data.tracks.items[i].name + "\n" +
+                    "URL: " + data.tracks.items[i].album.external_urls.spotify + "\n" +
+                    "Album Name: " + data.tracks.items[i].album.name + "\n" +
+                    "==========================================================";
+                console.log(outStr);
+                fs.appendFile("log.txt", outStr + "\n", function (err) {
+                    if (err) {
+                        console.log(err);
+                    }
+                });
+            }
+        });
+    };
+
+    // OmDbApi Movies function
+    this.omDbApiFunction = function (movieName) {
+        var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
+        axios.get(queryUrl).then(
+            function (response) {
+                var isRotten = false;
+                var rottenStr = "";
+                response.data.Ratings.forEach(function (elem, i) {
+                    if (elem.Source === "Rotten Tomatoes") {
+                        rottenStr = "Rotten Tomatoes rating is: " + elem.Value + "\n";
+                        isRotten = true;
+                    }
+                });
+                if (!isRotten) {
+                    rottenStr = "Rotten Tomatoes rating is: none\n";
+                }
+                console.log("\n");
+                console.log("movie-this " + movieName);
+                fs.appendFile("log.txt", "movie-this " + movieName + "\n", function (err) {
+                    if (err) {
+                        console.log(err);
+                    }
+                });
+
+                var outStr = "Movie Title: " + movieName + "\n" +
+                    "Year: " + response.data.year + "\n" +
+                    "IMDB movie's rating is: " + response.data.imdbRating + "\n" +
+                    rottenStr +
+                    "Country movie produced in: " + response.data.Country + "\n" +
+                    "Language: " + response.data.Language + "\n" +
+                    "Plot: " + response.data.Plot + "\n" +
+                    "Actors: " + response.data.Actors + "\n" +
+                    "==========================================================";
+                console.log(outStr);
+                fs.appendFile("log.txt", outStr + "\n", function (err) {
+                    if (err) {
+                        console.log(err);
+                    }
+                });
+            }
+        );
+    };
+
 };
-omDbApiFunction("A Star is Born");
+
+
+// Exporting the Liri constructor which we will use in liri.js
+module.exports = Liri;

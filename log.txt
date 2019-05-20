@@ -1,0 +1,421 @@
+concert-this Cher
+Venue: Bell MTS Place
+Location: Winnipeg, , Canada
+Date/Time: 2019-05-21T19:30:00
+==========================================================
+Venue: Sasktel Centre
+Location: Saskatoon, , Canada
+Date/Time: 2019-05-23T19:30:00
+==========================================================
+Venue: Rogers Place
+Location: Edmonton, , Canada
+Date/Time: 2019-05-25T20:00:00
+==========================================================
+Venue: Scotiabank Saddledome
+Location: Calgary, , Canada
+Date/Time: 2019-05-28T19:30:00
+==========================================================
+Venue: Rogers Arena
+Location: Vancouver, , Canada
+Date/Time: 2019-05-30T19:30:00
+==========================================================
+Venue: Debaser Hornstulls Strand  Bar Brooklyn och Calexico's
+Location: Stockholm, , Sweden
+Date/Time: 2019-05-31T19:00:00
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-23T20:00:00
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-28T20:00:00
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-31T20:00:00
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-09-01T20:00:00
+==========================================================
+Venue: Mercedes-Benz Arena Berlin
+Location: Berlin, , Germany
+Date/Time: 2019-09-26T20:00:00
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-24T20:00:00
+==========================================================
+Venue: Ziggo Dome
+Location: Amsterdam, , Netherlands
+Date/Time: 2019-09-30T20:00:00
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-21T20:00:00
+==========================================================
+Venue: Kleine Olympiahalle München
+Location: München, , Germany
+Date/Time: 2019-10-03T20:00:00
+==========================================================
+Venue: Wiener Stadthalle - Halle D
+Location: Vienna, , Austria
+Date/Time: 2019-10-07T19:00:00
+==========================================================
+Venue: Antwerps Sportpaleis
+Location: Antwerpen, , Belgium
+Date/Time: 2019-09-28T18:30:00
+==========================================================
+Venue: Lanxess Arena
+Location: Köln, , Germany
+Date/Time: 2019-10-05T20:00:00
+==========================================================
+Venue: Barclaycard Arena Hamburg
+Location: Hamburg, , Germany
+Date/Time: 2019-10-13T18:00:00
+==========================================================
+Venue: Hallenstadion
+Location: Zürich, , Switzerland
+Date/Time: 2019-10-09T19:00:00
+==========================================================
+Venue: Royal Arena
+Location: København S, , Denmark
+Date/Time: 2019-10-15T20:00:00
+==========================================================
+Venue: The O2
+Location: London, , United Kingdom
+Date/Time: 2019-10-20T18:00:00
+==========================================================
+Venue: The O2 Arena
+Location: London, , United Kingdom
+Date/Time: 2019-10-21T18:30:00
+==========================================================
+Venue: Manchester Arena
+Location: Manchester, , United Kingdom
+Date/Time: 2019-10-24T00:00:00
+==========================================================
+Venue: Arena Birmingham
+Location: Birmingham, , United Kingdom
+Date/Time: 2019-10-26T18:00:00
+==========================================================
+Venue: The SSE Hydro
+Location: Glasgow, , United Kingdom
+Date/Time: 2019-10-28T18:30:00
+==========================================================
+Venue: First Direct Arena
+Location: Leeds, , United Kingdom
+Date/Time: 2019-10-30T20:00:00
+==========================================================
+Venue: 3Arena
+Location: Dublin, , Ireland
+Date/Time: 2019-11-01T20:00:00
+==========================================================
+Venue: SSE Arena
+Location: Belfast, , United Kingdom
+Date/Time: 2019-11-03T20:00:00
+==========================================================
+Venue: Moda Center
+Location: Portland, OR, United States
+Date/Time: 2019-11-19T19:30:00
+==========================================================
+Venue: Chase Center
+Location: San Francisco, CA, United States
+Date/Time: 2019-11-21T19:30:00
+==========================================================
+Venue: SAP Arena
+Location: Mannheim, , Germany
+Date/Time: 2019-10-11T20:00:00
+==========================================================
+Venue: Pepsi Center
+Location: Denver, CO, United States
+Date/Time: 2019-11-25T19:30:00
+==========================================================
+Venue: United Center
+Location: Chicago, IL, United States
+Date/Time: 2019-11-27T19:30:00
+==========================================================
+Venue: Gila River Arena
+Location: Glendale, AZ, United States
+Date/Time: 2019-11-23T20:00:00
+==========================================================
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date/Time: 2019-12-03T19:30:00
+==========================================================
+Venue: Wells Fargo Center
+Location: Philadelphia, PA, United States
+Date/Time: 2019-12-06T20:00:00
+==========================================================
+Venue: TD Garden
+Location: Boston, MA, United States
+Date/Time: 2019-12-08T19:30:00
+==========================================================
+Venue: Capital One Arena
+Location: Washington, DC, United States
+Date/Time: 2019-12-10T19:30:00
+==========================================================
+Venue: Smoothie King Center
+Location: New Orleans, LA, United States
+Date/Time: 2019-12-13T20:00:00
+==========================================================
+Venue: Toyota Center
+Location: Houston, TX, United States
+Date/Time: 2019-12-15T19:30:00
+==========================================================
+Venue: AT&T Center
+Location: San Antonio, TX, United States
+Date/Time: 2019-12-17T19:30:00
+==========================================================
+Venue: American Airlines Center
+Location: Dallas, TX, United States
+Date/Time: 2019-12-19T19:30:00
+==========================================================
+Venue: Scotiabank Arena
+Location: Toronto, , Canada
+Date/Time: 2019-11-29T19:30:00
+==========================================================
+Venue: Friends Arena
+Location: Stockholm, , Sweden
+Date/Time: 2019-10-17T19:30:00
+==========================================================
+spotify-this-song Cherish
+Artists: Mark Wills
+Song Name: I Do (Cherish You)
+URL: https://open.spotify.com/album/1gBGHW5FfeH4sfyqbeBIJ0
+Album Name: Wish You Were Here
+==========================================================
+Artists: 98º
+Song Name: I Do (Cherish You)
+URL: https://open.spotify.com/album/39FfOWdtZLLY1lMn2R3UIm
+Album Name: 98º And Rising
+==========================================================
+Artists: Cherish
+Song Name: Do It To It
+URL: https://open.spotify.com/album/5nHZP6EqmhfNwxe71tpyKn
+Album Name: Unappreciated
+==========================================================
+Artists: Sade
+Song Name: Cherish the Day - Remastered
+URL: https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a
+Album Name: The Ultimate Collection
+==========================================================
+Artists: Kool & The Gang
+Song Name: Cherish
+URL: https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf
+Album Name: The Very Best Of Kool & The Gang (Reissue)
+==========================================================
+Artists: Sade
+Song Name: Cherish the Day
+URL: https://open.spotify.com/album/6Y8lHGQqTmbE6Hhj1mMCkX
+Album Name: Love Deluxe
+==========================================================
+Artists: $uicideBoy$
+Song Name: Cherish The Dead
+URL: https://open.spotify.com/album/1gbgmfoERh4YxIVyyjS8Hp
+Album Name: My Liver Will Handle What My Heart Can't
+==========================================================
+Artists: Cherish
+Song Name: Unappreciated
+URL: https://open.spotify.com/album/5nHZP6EqmhfNwxe71tpyKn
+Album Name: Unappreciated
+==========================================================
+Artists: Jay Prince
+Song Name: With U
+URL: https://open.spotify.com/album/0Ng3lyNkoJuBXMiJkbs9dT
+Album Name: CHERISH
+==========================================================
+Artists: Sade
+Song Name: Cherish the Day
+URL: https://open.spotify.com/album/5eLHiRRgWKHtzEbQCew8pK
+Album Name: The Best Of Sade
+==========================================================
+Artists: Madonna
+Song Name: Cherish
+URL: https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0
+Album Name: Celebration (double disc version)
+==========================================================
+Artists: K CAMP
+Song Name: Cherish My Dawgs
+URL: https://open.spotify.com/album/6vRAglwxWspzHwgtKq5DPn
+Album Name: RARE Sound
+==========================================================
+Artists: The Association
+Song Name: Cherish
+URL: https://open.spotify.com/album/0gC39hx2OS9rA9hSItx217
+Album Name: Just The Right Sound: The Association Anthology [Digital Version]
+==========================================================
+Artists: Xander
+Song Name: Cherish.
+URL: https://open.spotify.com/album/4sPhywueDZqCVbyAuEFOoD
+Album Name: Sad Boy.
+==========================================================
+Artists: Mikky Ekko
+Song Name: Cherish You
+URL: https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9
+Album Name: FAME
+==========================================================
+Artists: The Association
+Song Name: Cherish
+URL: https://open.spotify.com/album/6NDt4G1QiGzMNnri4kxq6f
+Album Name: And Then...Along Comes
+==========================================================
+Artists: Madonna
+Song Name: Cherish
+URL: https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV
+Album Name: Like a Prayer
+==========================================================
+Artists: Cherish
+Song Name: Killa
+URL: https://open.spotify.com/album/2UkYKJGOsWvPpMPfxfi9zQ
+Album Name: The Truth
+==========================================================
+Artists: Cold Cave
+Song Name: Confetti
+URL: https://open.spotify.com/album/1gXn4SxVdD2rMrouPyUXq0
+Album Name: Cherish The Light Years
+==========================================================
+Artists: 98º
+Song Name: I Do (Cherish You)
+URL: https://open.spotify.com/album/1W2z3DWELAxYAeRN7YvyFb
+Album Name: The Collection
+==========================================================
+movie-this The Alamo
+Movie Title: The Alamo
+Year: undefined
+IMDB movie's rating is: 6.0
+Rotten Tomatoes rating is: noneCountry movie produced in: USA
+Language: English, Spanish
+Plot: Based on the 1836 standoff between a group of Texan and Tejano men, led by Davy Crockett and Jim Bowie, and Mexican dictator Santa Anna's forces at the Alamo in San Antonio Texas.
+Actors: Dennis Quaid, Billy Bob Thornton, Jason Patric, Patrick Wilson
+==========================================================
+spotify-this-song "I Want it That Way"
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+URL: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+Album Name: The Hits--Chapter One
+==========================================================
+Artists: Backstreet Boys
+Song Name: I Want It That Way - Reimagined
+URL: https://open.spotify.com/album/74JILVZuxtZLFyRl9AY7TV
+Album Name: I Want It That Way (Reimagined)
+==========================================================
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+URL: https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ
+Album Name: Millennium
+==========================================================
+Artists: Mick Jensen
+Song Name: I Want It That Way
+URL: https://open.spotify.com/album/1Eav3T7yEFSOvtUOtxMKa0
+Album Name: I Want It That Way
+==========================================================
+Artists: Anthem Lights
+Song Name: I Want It That Way
+URL: https://open.spotify.com/album/6y6y4kyZ81PF951e9N4WBM
+Album Name: Covers Part IV
+==========================================================
+Artists: Jess and Gabriel
+Song Name: I Want It That Way
+URL: https://open.spotify.com/album/7agg8FsuWoGF4eVvzEYHbB
+Album Name: Under the Covers, Vol. 3
+==========================================================
+Artists: Tyler and Mark
+Song Name: I Want It That Way
+URL: https://open.spotify.com/album/2OB116yi2gPBqwgQvqjKIy
+Album Name: Beautiful Dreams
+==========================================================
+Artists: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+URL: https://open.spotify.com/album/4VzAwj9nYwEqjY6JLaTwCm
+Album Name: Poodle Hat
+==========================================================
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+URL: https://open.spotify.com/album/71WupOKqXgSrgg0CivZDHS
+Album Name: 90 Sweet 90s Hits!
+==========================================================
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+URL: https://open.spotify.com/album/5Zwuaan4RIS108lyMEYYmw
+Album Name: NKOTBSB
+==========================================================
+Artists: Steel Panther
+Song Name: I Want It That Way
+URL: https://open.spotify.com/album/0cKszqNmOM9mjoiKqR9BIS
+Album Name: I Want It That Way
+==========================================================
+Artists: Glee Cast
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+URL: https://open.spotify.com/album/1sFs6ZD66GxP9g8kcwISh1
+Album Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+==========================================================
+Artists: Boyce Avenue
+Song Name: I Want It That Way
+URL: https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz
+Album Name: Cover Sessions, Vol. 2
+==========================================================
+Artists: Manuel Costa
+Song Name: I Want It That Way
+URL: https://open.spotify.com/album/5OTVQJeg9hddMiZOnjMS4S
+Album Name: I Want It That Way
+==========================================================
+Artists: Dynamite Boy
+Song Name: I Want It That Way
+URL: https://open.spotify.com/album/5EoRtzlbNHpz4ZHR4rEmwD
+Album Name: Punk Goes Pop
+==========================================================
+Artists: Scary Pockets
+Song Name: I Want It That Way
+URL: https://open.spotify.com/album/5RUgGybyrfKUKE5hBTKLum
+Album Name: Nu Funk
+==========================================================
+Artists: Yshop
+Song Name: I Want It That Way
+URL: https://open.spotify.com/album/0dkPR4h6LEM3h8xCWiNpQJ
+Album Name: I Want It That Way
+==========================================================
+Artists: Scott Bradlee's Postmodern Jukebox
+Song Name: I Want It That Way
+URL: https://open.spotify.com/album/1jRyMHSkbnP8GwptMnh66z
+Album Name: Selfies on Kodachrome
+==========================================================
+Artists: Love Hits On Piano
+Song Name: I Want It That Way
+URL: https://open.spotify.com/album/5UHUwIBrJmJ5d3v5JXx8xv
+Album Name: Timeless Love
+==========================================================
+Artists: "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+URL: https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4
+Album Name: The Essential "Weird Al" Yankovic
+==========================================================
+movie-this The Alamo
+Movie Title: The Alamo
+Year: undefined
+IMDB movie's rating is: 6.0
+Rotten Tomatoes rating is: noneCountry movie produced in: USA
+Language: English, Spanish
+Plot: Based on the 1836 standoff between a group of Texan and Tejano men, led by Davy Crockett and Jim Bowie, and Mexican dictator Santa Anna's forces at the Alamo in San Antonio Texas.
+Actors: Dennis Quaid, Billy Bob Thornton, Jason Patric, Patrick Wilson
+==========================================================
+movie-this The Alamo
+Movie Title: The Alamo
+Year: undefined
+IMDB movie's rating is: 6.0
+Rotten Tomatoes rating is: none
+Country movie produced in: USA
+Language: English, Spanish
+Plot: Based on the 1836 standoff between a group of Texan and Tejano men, led by Davy Crockett and Jim Bowie, and Mexican dictator Santa Anna's forces at the Alamo in San Antonio Texas.
+Actors: Dennis Quaid, Billy Bob Thornton, Jason Patric, Patrick Wilson
+==========================================================
+movie-this Les Miserables
+Movie Title: Les Miserables
+Year: undefined
+IMDB movie's rating is: 7.3
+Rotten Tomatoes rating is: none
+Country movie produced in: UK
+Language: English
+Plot: Jean Valjean, convicted of stealing bread, is hounded for several decades by the relentless and cruel policeman Javert.
+Actors: Richard Jordan, Anthony Perkins, Cyril Cusack, Claude Dauphin
+==========================================================
