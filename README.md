@@ -1,40 +1,28 @@
 # liri-node-app
 
-# LIRI Bot
-
 ### Overview
 
-In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
+In this assignment, I developed an app named LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will is a command line node app that takes in parameters and gives you back data.
 
-### Before You Begin
+### Detailed Functionality
 
 1. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
-
-2. Make a new GitHub repository called liri-node-app and clone it to your computer.
-
-3. To retrieve the data that will power this app, you'll need to send requests using the `axios` package to the Bands in Town, Spotify and OMDB APIs. You'll find these Node packages crucial for your assignment.
-
-   * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)
+2. A new GitHub repository called liri-node-app was created and cloned it to my computer.
+3. Retrieve the data that will power this app by requests using the `axios` package to the Bands in Town, Spotify and OMDB APIs. 
+4. These Node packages  were crucial to this  assignment.
+   * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api) - Retrieve data about songs from Spotify.
 
    * [Axios](https://www.npmjs.com/package/axios)
 
-     * You'll use Axios to grab data from the [OMDB API](http://www.omdbapi.com) and the [Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)
+     * This app uses Axios to grab data from the [OMDB API](http://www.omdbapi.com) and the [Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)
 
-   * [Moment](https://www.npmjs.com/package/moment)
+   * [Moment](https://www.npmjs.com/package/moment) - Used to manipulate date/time data.
 
-   * [DotEnv](https://www.npmjs.com/package/dotenv)
+   * [DotEnv](https://www.npmjs.com/package/dotenv) - Used to mange environment data such as the Spotify keys in the .env file. 
 
 ## Submission Guide
 
-Create and use a standard GitHub repository. As this is a CLI App, it cannot be deployed to GitHub pages or Heroku. This time you'll need to include screenshots, a GIF, and/or a video showing us that you have the app working with no bugs. You can include these screenshots/GIFs or a link to a video in a `README.md` file.
-
-* Include screenshots (or a GIF/Video) of the typical user flow of your application. Make sure to include the use of Spotify, Bands in Town, and OMDB.
-
-* Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers/other developers in the future what you built and why, and to show how it works.
-
-* Because screenshots (and well-written READMEs) are extremely important in the context of GitHub, this will be part of the grading.
-
-If you haven't written a markdown file yet, [click here for a rundown](https://guides.github.com/features/mastering-markdown/), or just take a look at the raw file of these instructions.
+Created and used a standard GitHub repository at https://github.com/pvraab/liri-node-app. As this is a CLI App, it cannot be deployed to GitHub pages or Heroku. As a result l have included screenshots incorporated into a [video](./LiriProject.mp4) showing the app working with no bugs. 
 
 ### Commits
 
@@ -241,4 +229,15 @@ After completing the homework please add the piece to your portfolio. Make sure 
 If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
 
 **Good Luck!**
+
+### Results
+
+1. If you want run this application, you will need to follow the instructions outlined in this document to git clone the app from GitHub, install the required NPM packages, and use the correct syntax to run the application in Node.js.
+2. A video is included in the repository showing the application being run for each of the four endpoints. See this video at 
+
+- Include screenshots (or a GIF/Video) of the typical user flow of your application. Make sure to include the use of Spotify, Bands in Town, and OMDB.
+- Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers/other developers in the future what you built and why, and to show how it works.
+- Because screenshots (and well-written READMEs) are extremely important in the context of GitHub, this will be part of the grading.
+
+If you haven't written a markdown file yet, [click here for a rundown](https://guides.github.com/features/mastering-markdown/), or just take a look at the raw file of these instructions.
 
