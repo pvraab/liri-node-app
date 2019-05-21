@@ -22,33 +22,46 @@ In this assignment, I developed an app named LIRI. LIRI is like iPhone's SIRI. H
 
 ## Submission Guide
 
-Created and used a standard GitHub repository at https://github.com/pvraab/liri-node-app. As this is a CLI App, it cannot be deployed to GitHub pages or Heroku. As a result l have included screenshots incorporated into a [video](./LiriProject.mp4) showing the app working with no bugs. 
+Created with and and used a standard GitHub repository at https://github.com/pvraab/liri-node-app. As this is a CLI App, it cannot be deployed to GitHub pages or Heroku. As a result l have included screenshots incorporated into a [video](./LiriProject.mp4) showing the app working with no bugs. The information about the results of this app are discussed at the end of this document in the **Results** section.
 
 ### Commits
 
-Having an active and healthy commit history on GitHub is important for your future job search. It is also extremely important for making sure your work is saved in your repository. If something breaks, committing often ensures you are able to go back to a working version of your code.
-
-* Committing often is a signal to employers that you are actively working on your code and learning.
-
-  * We use the mantra â€œcommit early and often.â€  This means that when you write code that works, add it and commit it!
-
-  * Numerous commits allow you to see how your app is progressing and give you a point to revert to if anything goes wrong.
-
-* Be clear and descriptive in your commit messaging.
-
-  * When writing a commit message, avoid vague messages like "fixed." Be descriptive so that you and anyone else looking at your repository knows what happened with each commit.
-
-* We would like you to have well over 200 commits by graduation, so commit early and often!
+This project was committed at each stage of it's development. Meaningful comments were used to document the development steps.
 
 ### Submission on BCS
 
-* Please submit the link to the Github Repository!
+The link to the Github Repository was submitted to the BootCamp Spot.
 
-### Instructions
+### To Download and Run from Repository
 
-1. Navigate to the root of your project and run `npm init -y` &mdash; this will initialize a `package.json` file for your project. The `package.json` file is required for installing third party npm packages and saving their version numbers. If you fail to initialize a `package.json` file, it will be troublesome, and at times almost impossible for anyone else to run your code after cloning your project.
+1. cd working_directory
 
-2. Make a `.gitignore` file and add the following lines to it. This will tell git not to track these files, and thus they won't be committed to Github.
+   ​	This will probably be done using a git bash shell terminal.
+
+2. git clone https://github.com/pvraab/liri-node-app.git
+
+   ​	Bring the code from the repository to your local working_directory.
+
+3. npm install
+
+   ​	Run npm install to read the package.json and create a node_modules directory and populate it with all of the needed npm packages.
+
+4. Run the various scripts into the liri app.
+
+   ​	See the What Each **Command Should Do** section for detailed instructions.
+
+### Development Steps
+
+1. Create the GitHub repository with a README.md file and git clone that initial repository to the working directory. For example:
+
+   - cd working_directory
+   - git clone https://github.com/pvraab/liri-node-app.git
+
+   
+
+2. In the root of the local project run `npm init -y` &mdash; this will initialize a `package.json` file for the project. The `package.json` file is required for installing third party npm packages and saving their version numbers. Failure to initialize a `package.json` file will make it difficult  for anyone else to run the code after cloning the project since they will not know what packages are required.
+
+3. Make a `.gitignore` file and add the following lines to it. This will tell git not to track these files, and thus they won't be committed to Github.
 
 ```
 node_modules
@@ -58,7 +71,7 @@ node_modules
 
 3. Make a JavaScript file named `keys.js`.
 
-* Inside keys.js your file will look like this:
+* Inside the keys.js file will manage the Spotify keys and look like this:
 
 ```js
 console.log('this is loaded');
@@ -69,7 +82,7 @@ exports.spotify = {
 };
 ```
 
-4. Next, create a file named `.env`, add the following to it, replacing the values with your API keys (no quotes) once you have them:
+4. Next, create a file named `.env`, add the following to it, replacing the values with valid API keys (no quotes) once you have them:
 
 ```js
 # Spotify API keys
@@ -81,7 +94,7 @@ SPOTIFY_SECRET=your-spotify-secret
 
 * This file will be used by the `dotenv` package to set what are known as environment variables to the global `process.env` object in node. These are values that are meant to be specific to the computer that node is running on, and since we are gitignoring this file, they won't be pushed to github &mdash; keeping our API key information private.
 
-* If someone wanted to clone your app from github and run it themselves, they would need to supply their own `.env` file for it to work.
+* If someone wanted to clone the app from github and run it themselves, they would need to supply their own `.env` file for it to work.
 
 5. Make a file called `random.txt`.
 
@@ -103,7 +116,7 @@ require("dotenv").config();
   var keys = require("./keys.js");
 ```
 
-* You should then be able to access your keys information like so
+* We are then able to access the key information as
 
   ```js
   var spotify = new Spotify(keys.spotify);
@@ -143,9 +156,9 @@ require("dotenv").config();
 
      * The album that the song is from
 
-   * If no song is provided then your program will default to "The Sign" by Ace of Base.
+   * If no song is provided then the program will default to "The Sign" by Ace of Base.
 
-   * You will utilize the [node-spotify-api](https://www.npmjs.com/package/node-spotify-api) package in order to retrieve song information from the Spotify API.
+   * Utilize the [node-spotify-api](https://www.npmjs.com/package/node-spotify-api) package in order to retrieve song information from the Spotify API.
 
    * The Spotify API requires you sign up as a developer to generate the necessary credentials. You can follow these steps in order to generate a **client id** and **client secret**:
 
@@ -159,7 +172,7 @@ require("dotenv").config();
 
 3. `node liri.js movie-this '<movie name here>'`
 
-   * This will output the following information to your terminal/bash window:
+   1. This will output the following information to the terminal/bash window:
 
      ```
        * Title of the movie.
@@ -172,49 +185,32 @@ require("dotenv").config();
        * Actors in the movie.
      ```
 
-   * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+   2. If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
      * If you haven't watched "Mr. Nobody," then you should: <http://www.imdb.com/title/tt0485947/>
 
      * It's on Netflix!
 
-   * You'll use the `axios` package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use `trilogy`.
+   3. You'll use the `axios` package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use `trilogy`.
 
 4. `node liri.js do-what-it-says`
 
    * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
      * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
-
-     * Edit the text in random.txt to test out the feature for movie-this and concert-this.
-
-### BONUS
-
-* In addition to logging the data to your terminal/bash window, output the data to a .txt file called `log.txt`.
-
-* Make sure you append each command you run to the `log.txt` file.
-
-* Do not overwrite your file each time you run a command.
-
-### Reminder: Submission on BCS
-
-* Please submit the link to the Github Repository!
-
-- - -
-
-### Minimum Requirements
-
-Attempt to complete homework assignment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed. Adding a README.md as well as adding this homework to your portfolio are required as well and more information can be found below.
+* Edit the text in random.txt to test out the feature for movie-this and concert-this.
+   
+5.  Output the data to a .txt file called `log.txt`. Append each command you run to the `log.txt` file. Do not overwrite your file each time you run a command.
 
 - - -
 
 ### Create a README.md
 
-Add a `README.md` to your repository describing the project. Here are some resources for creating your `README.md`. Here are some resources to help you along the way:
+Create and edit this `README.md` to describe the project. Here are some resources for creating your `README.md`. Here are some resources to help you along the way:
 
 * [About READMEs](https://help.github.com/articles/about-readmes/)
-
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Typora](<https://typora.io/>) - A tool for editing markdown files.
 
 - - -
 
@@ -232,7 +228,7 @@ If you have any questions about this project or the material we have covered, pl
 
 ### Results
 
-1. If you want run this application, you will need to follow the instructions outlined in this document to git clone the app from GitHub, install the required NPM packages, and use the correct syntax to run the application in Node.js.
+1. If you want to run this application, you will need to follow the instructions outlined in this document to git clone the app from GitHub, install the required NPM packages, and use the correct syntax to run the application in Node.js.
 2. A video is included in the repository showing the application being run for each of the four endpoints. See this video at 
 
 - Include screenshots (or a GIF/Video) of the typical user flow of your application. Make sure to include the use of Spotify, Bands in Town, and OMDB.
