@@ -419,3 +419,1093 @@ Language: English
 Plot: Jean Valjean, convicted of stealing bread, is hounded for several decades by the relentless and cruel policeman Javert.
 Actors: Richard Jordan, Anthony Perkins, Cyril Cusack, Claude Dauphin
 ==========================================================
+concert-this Cher
+Venue: Bell MTS Place
+Location: Winnipeg, , Canada
+Date/Time: 2019-05-21
+==========================================================
+Venue: Sasktel Centre
+Location: Saskatoon, , Canada
+Date/Time: 2019-05-23
+==========================================================
+Venue: Scotiabank Saddledome
+Location: Calgary, , Canada
+Date/Time: 2019-05-28
+==========================================================
+Venue: Rogers Arena
+Location: Vancouver, , Canada
+Date/Time: 2019-05-30
+==========================================================
+Venue: Debaser Hornstulls Strand  Bar Brooklyn och Calexico's
+Location: Stockholm, , Sweden
+Date/Time: 2019-05-31
+==========================================================
+Venue: Rogers Place
+Location: Edmonton, , Canada
+Date/Time: 2019-05-25
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-23
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-21
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-24
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-28
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-31
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-09-01
+==========================================================
+Venue: Mercedes-Benz Arena Berlin
+Location: Berlin, , Germany
+Date/Time: 2019-09-26
+==========================================================
+Venue: Antwerps Sportpaleis
+Location: Antwerpen, , Belgium
+Date/Time: 2019-09-28
+==========================================================
+Venue: Ziggo Dome
+Location: Amsterdam, , Netherlands
+Date/Time: 2019-09-30
+==========================================================
+Venue: Kleine Olympiahalle München
+Location: München, , Germany
+Date/Time: 2019-10-03
+==========================================================
+Venue: Lanxess Arena
+Location: Köln, , Germany
+Date/Time: 2019-10-05
+==========================================================
+Venue: Wiener Stadthalle - Halle D
+Location: Vienna, , Austria
+Date/Time: 2019-10-07
+==========================================================
+Venue: Hallenstadion
+Location: Zürich, , Switzerland
+Date/Time: 2019-10-09
+==========================================================
+Venue: SAP Arena
+Location: Mannheim, , Germany
+Date/Time: 2019-10-11
+==========================================================
+Venue: Barclaycard Arena Hamburg
+Location: Hamburg, , Germany
+Date/Time: 2019-10-13
+==========================================================
+Venue: Royal Arena
+Location: København S, , Denmark
+Date/Time: 2019-10-15
+==========================================================
+Venue: Friends Arena
+Location: Stockholm, , Sweden
+Date/Time: 2019-10-17
+==========================================================
+Venue: The O2
+Location: London, , United Kingdom
+Date/Time: 2019-10-20
+==========================================================
+Venue: The O2 Arena
+Location: London, , United Kingdom
+Date/Time: 2019-10-21
+==========================================================
+Venue: Manchester Arena
+Location: Manchester, , United Kingdom
+Date/Time: 2019-10-24
+==========================================================
+Venue: Arena Birmingham
+Location: Birmingham, , United Kingdom
+Date/Time: 2019-10-26
+==========================================================
+Venue: First Direct Arena
+Location: Leeds, , United Kingdom
+Date/Time: 2019-10-30
+==========================================================
+Venue: The SSE Hydro
+Location: Glasgow, , United Kingdom
+Date/Time: 2019-10-28
+==========================================================
+Venue: 3Arena
+Location: Dublin, , Ireland
+Date/Time: 2019-11-01
+==========================================================
+Venue: SSE Arena
+Location: Belfast, , United Kingdom
+Date/Time: 2019-11-03
+==========================================================
+Venue: Moda Center
+Location: Portland, OR, United States
+Date/Time: 2019-11-19
+==========================================================
+Venue: Chase Center
+Location: San Francisco, CA, United States
+Date/Time: 2019-11-21
+==========================================================
+Venue: Gila River Arena
+Location: Glendale, AZ, United States
+Date/Time: 2019-11-23
+==========================================================
+Venue: Pepsi Center
+Location: Denver, CO, United States
+Date/Time: 2019-11-25
+==========================================================
+Venue: United Center
+Location: Chicago, IL, United States
+Date/Time: 2019-11-27
+==========================================================
+Venue: Scotiabank Arena
+Location: Toronto, , Canada
+Date/Time: 2019-11-29
+==========================================================
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date/Time: 2019-12-03
+==========================================================
+Venue: Wells Fargo Center
+Location: Philadelphia, PA, United States
+Date/Time: 2019-12-06
+==========================================================
+Venue: TD Garden
+Location: Boston, MA, United States
+Date/Time: 2019-12-08
+==========================================================
+Venue: Capital One Arena
+Location: Washington, DC, United States
+Date/Time: 2019-12-10
+==========================================================
+Venue: Smoothie King Center
+Location: New Orleans, LA, United States
+Date/Time: 2019-12-13
+==========================================================
+Venue: Toyota Center
+Location: Houston, TX, United States
+Date/Time: 2019-12-15
+==========================================================
+Venue: AT&T Center
+Location: San Antonio, TX, United States
+Date/Time: 2019-12-17
+==========================================================
+Venue: American Airlines Center
+Location: Dallas, TX, United States
+Date/Time: 2019-12-19
+==========================================================
+concert-this Cher
+concert-this Cher
+Venue: Bell MTS Place
+Location: Winnipeg, , Canada
+Date/Time: 2019-05-21
+==========================================================
+Venue: Sasktel Centre
+Location: Saskatoon, , Canada
+Date/Time: 2019-05-23
+==========================================================
+Venue: Rogers Place
+Location: Edmonton, , Canada
+Date/Time: 2019-05-25
+==========================================================
+Venue: Scotiabank Saddledome
+Location: Calgary, , Canada
+Date/Time: 2019-05-28
+==========================================================
+Venue: Rogers Arena
+Location: Vancouver, , Canada
+Date/Time: 2019-05-30
+==========================================================
+Venue: Debaser Hornstulls Strand  Bar Brooklyn och Calexico's
+Location: Stockholm, , Sweden
+Date/Time: 2019-05-31
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-21
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-23
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-24
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-28
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-31
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-09-01
+==========================================================
+Venue: Mercedes-Benz Arena Berlin
+Location: Berlin, , Germany
+Date/Time: 2019-09-26
+==========================================================
+Venue: Antwerps Sportpaleis
+Location: Antwerpen, , Belgium
+Date/Time: 2019-09-28
+==========================================================
+Venue: Ziggo Dome
+Location: Amsterdam, , Netherlands
+Date/Time: 2019-09-30
+==========================================================
+Venue: Kleine Olympiahalle München
+Location: München, , Germany
+Date/Time: 2019-10-03
+==========================================================
+Venue: Lanxess Arena
+Location: Köln, , Germany
+Date/Time: 2019-10-05
+==========================================================
+Venue: Wiener Stadthalle - Halle D
+Location: Vienna, , Austria
+Date/Time: 2019-10-07
+==========================================================
+Venue: Hallenstadion
+Location: Zürich, , Switzerland
+Date/Time: 2019-10-09
+==========================================================
+Venue: SAP Arena
+Location: Mannheim, , Germany
+Date/Time: 2019-10-11
+==========================================================
+Venue: Barclaycard Arena Hamburg
+Location: Hamburg, , Germany
+Date/Time: 2019-10-13
+==========================================================
+Venue: Royal Arena
+Location: København S, , Denmark
+Date/Time: 2019-10-15
+==========================================================
+Venue: Friends Arena
+Location: Stockholm, , Sweden
+Date/Time: 2019-10-17
+==========================================================
+Venue: The O2
+Location: London, , United Kingdom
+Date/Time: 2019-10-20
+==========================================================
+Venue: The O2 Arena
+Location: London, , United Kingdom
+Date/Time: 2019-10-21
+==========================================================
+Venue: Manchester Arena
+Location: Manchester, , United Kingdom
+Date/Time: 2019-10-24
+==========================================================
+Venue: Arena Birmingham
+Location: Birmingham, , United Kingdom
+Date/Time: 2019-10-26
+==========================================================
+Venue: The SSE Hydro
+Location: Glasgow, , United Kingdom
+Date/Time: 2019-10-28
+==========================================================
+Venue: First Direct Arena
+Location: Leeds, , United Kingdom
+Date/Time: 2019-10-30
+==========================================================
+Venue: 3Arena
+Location: Dublin, , Ireland
+Date/Time: 2019-11-01
+==========================================================
+Venue: SSE Arena
+Location: Belfast, , United Kingdom
+Date/Time: 2019-11-03
+==========================================================
+Venue: Moda Center
+Location: Portland, OR, United States
+Date/Time: 2019-11-19
+==========================================================
+Venue: Chase Center
+Location: San Francisco, CA, United States
+Date/Time: 2019-11-21
+==========================================================
+Venue: Gila River Arena
+Location: Glendale, AZ, United States
+Date/Time: 2019-11-23
+==========================================================
+Venue: Scotiabank Arena
+Location: Toronto, , Canada
+Date/Time: 2019-11-29
+==========================================================
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date/Time: 2019-12-03
+==========================================================
+Venue: United Center
+Location: Chicago, IL, United States
+Date/Time: 2019-11-27
+==========================================================
+Venue: TD Garden
+Location: Boston, MA, United States
+Date/Time: 2019-12-08
+==========================================================
+Venue: Capital One Arena
+Location: Washington, DC, United States
+Date/Time: 2019-12-10
+==========================================================
+Venue: Pepsi Center
+Location: Denver, CO, United States
+Date/Time: 2019-11-25
+==========================================================
+Venue: Smoothie King Center
+Location: New Orleans, LA, United States
+Date/Time: 2019-12-13
+==========================================================
+Venue: Toyota Center
+Location: Houston, TX, United States
+Date/Time: 2019-12-15
+==========================================================
+Venue: AT&T Center
+Location: San Antonio, TX, United States
+Date/Time: 2019-12-17
+==========================================================
+Venue: American Airlines Center
+Location: Dallas, TX, United States
+Date/Time: 2019-12-19
+==========================================================
+Venue: Wells Fargo Center
+Location: Philadelphia, PA, United States
+Date/Time: 2019-12-06
+==========================================================
+concert-this Cher
+concert-this Cher
+concert-this Cher
+concert-this Cher
+Venue: Bell MTS Place
+Location: Winnipeg, , Canada
+Date/Time: 2019-05-21
+==========================================================
+Venue: Sasktel Centre
+Location: Saskatoon, , Canada
+Date/Time: 2019-05-23
+==========================================================
+Venue: Rogers Place
+Location: Edmonton, , Canada
+Date/Time: 2019-05-25
+==========================================================
+Venue: Scotiabank Saddledome
+Location: Calgary, , Canada
+Date/Time: 2019-05-28
+==========================================================
+Venue: Rogers Arena
+Location: Vancouver, , Canada
+Date/Time: 2019-05-30
+==========================================================
+Venue: Debaser Hornstulls Strand  Bar Brooklyn och Calexico's
+Location: Stockholm, , Sweden
+Date/Time: 2019-05-31
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-21
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-23
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-24
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-28
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-31
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-09-01
+==========================================================
+Venue: Mercedes-Benz Arena Berlin
+Location: Berlin, , Germany
+Date/Time: 2019-09-26
+==========================================================
+Venue: Antwerps Sportpaleis
+Location: Antwerpen, , Belgium
+Date/Time: 2019-09-28
+==========================================================
+Venue: Ziggo Dome
+Location: Amsterdam, , Netherlands
+Date/Time: 2019-09-30
+==========================================================
+Venue: Kleine Olympiahalle München
+Location: München, , Germany
+Date/Time: 2019-10-03
+==========================================================
+Venue: Lanxess Arena
+Location: Köln, , Germany
+Date/Time: 2019-10-05
+==========================================================
+Venue: Wiener Stadthalle - Halle D
+Location: Vienna, , Austria
+Date/Time: 2019-10-07
+==========================================================
+Venue: Hallenstadion
+Location: Zürich, , Switzerland
+Date/Time: 2019-10-09
+==========================================================
+Venue: SAP Arena
+Location: Mannheim, , Germany
+Date/Time: 2019-10-11
+==========================================================
+Venue: Barclaycard Arena Hamburg
+Location: Hamburg, , Germany
+Date/Time: 2019-10-13
+==========================================================
+Venue: Royal Arena
+Location: København S, , Denmark
+Date/Time: 2019-10-15
+==========================================================
+Venue: Friends Arena
+Location: Stockholm, , Sweden
+Date/Time: 2019-10-17
+==========================================================
+Venue: The O2
+Location: London, , United Kingdom
+Date/Time: 2019-10-20
+==========================================================
+Venue: The O2 Arena
+Location: London, , United Kingdom
+Date/Time: 2019-10-21
+==========================================================
+Venue: Manchester Arena
+Location: Manchester, , United Kingdom
+Date/Time: 2019-10-24
+==========================================================
+Venue: Arena Birmingham
+Location: Birmingham, , United Kingdom
+Date/Time: 2019-10-26
+==========================================================
+Venue: First Direct Arena
+Location: Leeds, , United Kingdom
+Date/Time: 2019-10-30
+==========================================================
+Venue: 3Arena
+Location: Dublin, , Ireland
+Date/Time: 2019-11-01
+==========================================================
+Venue: The SSE Hydro
+Location: Glasgow, , United Kingdom
+Date/Time: 2019-10-28
+==========================================================
+Venue: SSE Arena
+Location: Belfast, , United Kingdom
+Date/Time: 2019-11-03
+==========================================================
+Venue: Moda Center
+Location: Portland, OR, United States
+Date/Time: 2019-11-19
+==========================================================
+Venue: Chase Center
+Location: San Francisco, CA, United States
+Date/Time: 2019-11-21
+==========================================================
+Venue: Gila River Arena
+Location: Glendale, AZ, United States
+Date/Time: 2019-11-23
+==========================================================
+Venue: Pepsi Center
+Location: Denver, CO, United States
+Date/Time: 2019-11-25
+==========================================================
+Venue: United Center
+Location: Chicago, IL, United States
+Date/Time: 2019-11-27
+==========================================================
+Venue: Scotiabank Arena
+Location: Toronto, , Canada
+Date/Time: 2019-11-29
+==========================================================
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date/Time: 2019-12-03
+==========================================================
+Venue: Wells Fargo Center
+Location: Philadelphia, PA, United States
+Date/Time: 2019-12-06
+==========================================================
+Venue: TD Garden
+Location: Boston, MA, United States
+Date/Time: 2019-12-08
+==========================================================
+Venue: Capital One Arena
+Location: Washington, DC, United States
+Date/Time: 2019-12-10
+==========================================================
+Venue: Smoothie King Center
+Location: New Orleans, LA, United States
+Date/Time: 2019-12-13
+==========================================================
+Venue: Toyota Center
+Location: Houston, TX, United States
+Date/Time: 2019-12-15
+==========================================================
+Venue: AT&T Center
+Location: San Antonio, TX, United States
+Date/Time: 2019-12-17
+==========================================================
+Venue: American Airlines Center
+Location: Dallas, TX, United States
+Date/Time: 2019-12-19
+==========================================================
+concert-this Cher
+Venue: Bell MTS Place
+Location: Winnipeg, , Canada
+Date/Time: 2019-05-21
+==========================================================
+Venue: Sasktel Centre
+Location: Saskatoon, , Canada
+Date/Time: 2019-05-23
+==========================================================
+Venue: Rogers Place
+Location: Edmonton, , Canada
+Date/Time: 2019-05-25
+==========================================================
+Venue: Scotiabank Saddledome
+Location: Calgary, , Canada
+Date/Time: 2019-05-28
+==========================================================
+Venue: Rogers Arena
+Location: Vancouver, , Canada
+Date/Time: 2019-05-30
+==========================================================
+Venue: Debaser Hornstulls Strand  Bar Brooklyn och Calexico's
+Location: Stockholm, , Sweden
+Date/Time: 2019-05-31
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-21
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-23
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-24
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-28
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-08-31
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 2019-09-01
+==========================================================
+Venue: Mercedes-Benz Arena Berlin
+Location: Berlin, , Germany
+Date/Time: 2019-09-26
+==========================================================
+Venue: Antwerps Sportpaleis
+Location: Antwerpen, , Belgium
+Date/Time: 2019-09-28
+==========================================================
+Venue: Ziggo Dome
+Location: Amsterdam, , Netherlands
+Date/Time: 2019-09-30
+==========================================================
+Venue: Kleine Olympiahalle München
+Location: München, , Germany
+Date/Time: 2019-10-03
+==========================================================
+Venue: Lanxess Arena
+Location: Köln, , Germany
+Date/Time: 2019-10-05
+==========================================================
+Venue: Wiener Stadthalle - Halle D
+Location: Vienna, , Austria
+Date/Time: 2019-10-07
+==========================================================
+Venue: Hallenstadion
+Location: Zürich, , Switzerland
+Date/Time: 2019-10-09
+==========================================================
+Venue: SAP Arena
+Location: Mannheim, , Germany
+Date/Time: 2019-10-11
+==========================================================
+Venue: Barclaycard Arena Hamburg
+Location: Hamburg, , Germany
+Date/Time: 2019-10-13
+==========================================================
+Venue: Royal Arena
+Location: København S, , Denmark
+Date/Time: 2019-10-15
+==========================================================
+Venue: Friends Arena
+Location: Stockholm, , Sweden
+Date/Time: 2019-10-17
+==========================================================
+Venue: The O2
+Location: London, , United Kingdom
+Date/Time: 2019-10-20
+==========================================================
+Venue: The O2 Arena
+Location: London, , United Kingdom
+Date/Time: 2019-10-21
+==========================================================
+Venue: Manchester Arena
+Location: Manchester, , United Kingdom
+Date/Time: 2019-10-24
+==========================================================
+Venue: Arena Birmingham
+Location: Birmingham, , United Kingdom
+Date/Time: 2019-10-26
+==========================================================
+Venue: The SSE Hydro
+Location: Glasgow, , United Kingdom
+Date/Time: 2019-10-28
+==========================================================
+Venue: First Direct Arena
+Location: Leeds, , United Kingdom
+Date/Time: 2019-10-30
+==========================================================
+Venue: 3Arena
+Location: Dublin, , Ireland
+Date/Time: 2019-11-01
+==========================================================
+Venue: SSE Arena
+Location: Belfast, , United Kingdom
+Date/Time: 2019-11-03
+==========================================================
+Venue: Moda Center
+Location: Portland, OR, United States
+Date/Time: 2019-11-19
+==========================================================
+Venue: Chase Center
+Location: San Francisco, CA, United States
+Date/Time: 2019-11-21
+==========================================================
+Venue: Gila River Arena
+Location: Glendale, AZ, United States
+Date/Time: 2019-11-23
+==========================================================
+Venue: Pepsi Center
+Location: Denver, CO, United States
+Date/Time: 2019-11-25
+==========================================================
+Venue: United Center
+Location: Chicago, IL, United States
+Date/Time: 2019-11-27
+==========================================================
+Venue: Scotiabank Arena
+Location: Toronto, , Canada
+Date/Time: 2019-11-29
+==========================================================
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date/Time: 2019-12-03
+==========================================================
+Venue: Wells Fargo Center
+Location: Philadelphia, PA, United States
+Date/Time: 2019-12-06
+==========================================================
+Venue: TD Garden
+Location: Boston, MA, United States
+Date/Time: 2019-12-08
+==========================================================
+Venue: Capital One Arena
+Location: Washington, DC, United States
+Date/Time: 2019-12-10
+==========================================================
+Venue: Smoothie King Center
+Location: New Orleans, LA, United States
+Date/Time: 2019-12-13
+==========================================================
+Venue: Toyota Center
+Location: Houston, TX, United States
+Date/Time: 2019-12-15
+==========================================================
+Venue: AT&T Center
+Location: San Antonio, TX, United States
+Date/Time: 2019-12-17
+==========================================================
+Venue: American Airlines Center
+Location: Dallas, TX, United States
+Date/Time: 2019-12-19
+==========================================================
+concert-this Cher
+Venue: Bell MTS Place
+Location: Winnipeg, , Canada
+Date/Time: 05/21/2019
+==========================================================
+Venue: Sasktel Centre
+Location: Saskatoon, , Canada
+Date/Time: 05/23/2019
+==========================================================
+Venue: Rogers Place
+Location: Edmonton, , Canada
+Date/Time: 05/25/2019
+==========================================================
+Venue: Scotiabank Saddledome
+Location: Calgary, , Canada
+Date/Time: 05/28/2019
+==========================================================
+Venue: Rogers Arena
+Location: Vancouver, , Canada
+Date/Time: 05/30/2019
+==========================================================
+Venue: Debaser Hornstulls Strand  Bar Brooklyn och Calexico's
+Location: Stockholm, , Sweden
+Date/Time: 05/31/2019
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 08/21/2019
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 08/23/2019
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 08/24/2019
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 08/28/2019
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 08/31/2019
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date/Time: 09/01/2019
+==========================================================
+Venue: Mercedes-Benz Arena Berlin
+Location: Berlin, , Germany
+Date/Time: 09/26/2019
+==========================================================
+Venue: Antwerps Sportpaleis
+Location: Antwerpen, , Belgium
+Date/Time: 09/28/2019
+==========================================================
+Venue: Ziggo Dome
+Location: Amsterdam, , Netherlands
+Date/Time: 09/30/2019
+==========================================================
+Venue: Lanxess Arena
+Location: Köln, , Germany
+Date/Time: 10/05/2019
+==========================================================
+Venue: Wiener Stadthalle - Halle D
+Location: Vienna, , Austria
+Date/Time: 10/07/2019
+==========================================================
+Venue: Kleine Olympiahalle München
+Location: München, , Germany
+Date/Time: 10/03/2019
+==========================================================
+Venue: Hallenstadion
+Location: Zürich, , Switzerland
+Date/Time: 10/09/2019
+==========================================================
+Venue: SAP Arena
+Location: Mannheim, , Germany
+Date/Time: 10/11/2019
+==========================================================
+Venue: Barclaycard Arena Hamburg
+Location: Hamburg, , Germany
+Date/Time: 10/13/2019
+==========================================================
+Venue: Royal Arena
+Location: København S, , Denmark
+Date/Time: 10/15/2019
+==========================================================
+Venue: Friends Arena
+Location: Stockholm, , Sweden
+Date/Time: 10/17/2019
+==========================================================
+Venue: The O2
+Location: London, , United Kingdom
+Date/Time: 10/20/2019
+==========================================================
+Venue: The O2 Arena
+Location: London, , United Kingdom
+Date/Time: 10/21/2019
+==========================================================
+Venue: Manchester Arena
+Location: Manchester, , United Kingdom
+Date/Time: 10/24/2019
+==========================================================
+Venue: Arena Birmingham
+Location: Birmingham, , United Kingdom
+Date/Time: 10/26/2019
+==========================================================
+Venue: The SSE Hydro
+Location: Glasgow, , United Kingdom
+Date/Time: 10/28/2019
+==========================================================
+Venue: First Direct Arena
+Location: Leeds, , United Kingdom
+Date/Time: 10/30/2019
+==========================================================
+Venue: 3Arena
+Location: Dublin, , Ireland
+Date/Time: 11/01/2019
+==========================================================
+Venue: SSE Arena
+Location: Belfast, , United Kingdom
+Date/Time: 11/03/2019
+==========================================================
+Venue: Moda Center
+Location: Portland, OR, United States
+Date/Time: 11/19/2019
+==========================================================
+Venue: Chase Center
+Location: San Francisco, CA, United States
+Date/Time: 11/21/2019
+==========================================================
+Venue: Gila River Arena
+Location: Glendale, AZ, United States
+Date/Time: 11/23/2019
+==========================================================
+Venue: Pepsi Center
+Location: Denver, CO, United States
+Date/Time: 11/25/2019
+==========================================================
+Venue: United Center
+Location: Chicago, IL, United States
+Date/Time: 11/27/2019
+==========================================================
+Venue: Scotiabank Arena
+Location: Toronto, , Canada
+Date/Time: 11/29/2019
+==========================================================
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date/Time: 12/03/2019
+==========================================================
+Venue: Wells Fargo Center
+Location: Philadelphia, PA, United States
+Date/Time: 12/06/2019
+==========================================================
+Venue: TD Garden
+Location: Boston, MA, United States
+Date/Time: 12/08/2019
+==========================================================
+Venue: Capital One Arena
+Location: Washington, DC, United States
+Date/Time: 12/10/2019
+==========================================================
+Venue: Smoothie King Center
+Location: New Orleans, LA, United States
+Date/Time: 12/13/2019
+==========================================================
+Venue: Toyota Center
+Location: Houston, TX, United States
+Date/Time: 12/15/2019
+==========================================================
+Venue: AT&T Center
+Location: San Antonio, TX, United States
+Date/Time: 12/17/2019
+==========================================================
+Venue: American Airlines Center
+Location: Dallas, TX, United States
+Date/Time: 12/19/2019
+==========================================================
+concert-this Cher
+Venue: Bell MTS Place
+Location: Winnipeg, , Canada
+Date: 05/21/2019
+==========================================================
+Venue: Sasktel Centre
+Location: Saskatoon, , Canada
+Date: 05/23/2019
+==========================================================
+Venue: Rogers Place
+Location: Edmonton, , Canada
+Date: 05/25/2019
+==========================================================
+Venue: Scotiabank Saddledome
+Location: Calgary, , Canada
+Date: 05/28/2019
+==========================================================
+Venue: Rogers Arena
+Location: Vancouver, , Canada
+Date: 05/30/2019
+==========================================================
+Venue: Debaser Hornstulls Strand  Bar Brooklyn och Calexico's
+Location: Stockholm, , Sweden
+Date: 05/31/2019
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date: 08/21/2019
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date: 08/23/2019
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date: 08/24/2019
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date: 08/28/2019
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date: 08/31/2019
+==========================================================
+Venue: Park MGM Las Vegas
+Location: Las Vegas, NV, United States
+Date: 09/01/2019
+==========================================================
+Venue: Mercedes-Benz Arena Berlin
+Location: Berlin, , Germany
+Date: 09/26/2019
+==========================================================
+Venue: Antwerps Sportpaleis
+Location: Antwerpen, , Belgium
+Date: 09/28/2019
+==========================================================
+Venue: Ziggo Dome
+Location: Amsterdam, , Netherlands
+Date: 09/30/2019
+==========================================================
+Venue: Kleine Olympiahalle München
+Location: München, , Germany
+Date: 10/03/2019
+==========================================================
+Venue: Lanxess Arena
+Location: Köln, , Germany
+Date: 10/05/2019
+==========================================================
+Venue: Wiener Stadthalle - Halle D
+Location: Vienna, , Austria
+Date: 10/07/2019
+==========================================================
+Venue: Hallenstadion
+Location: Zürich, , Switzerland
+Date: 10/09/2019
+==========================================================
+Venue: SAP Arena
+Location: Mannheim, , Germany
+Date: 10/11/2019
+==========================================================
+Venue: Barclaycard Arena Hamburg
+Location: Hamburg, , Germany
+Date: 10/13/2019
+==========================================================
+Venue: Royal Arena
+Location: København S, , Denmark
+Date: 10/15/2019
+==========================================================
+Venue: Friends Arena
+Location: Stockholm, , Sweden
+Date: 10/17/2019
+==========================================================
+Venue: The O2
+Location: London, , United Kingdom
+Date: 10/20/2019
+==========================================================
+Venue: The O2 Arena
+Location: London, , United Kingdom
+Date: 10/21/2019
+==========================================================
+Venue: Manchester Arena
+Location: Manchester, , United Kingdom
+Date: 10/24/2019
+==========================================================
+Venue: Arena Birmingham
+Location: Birmingham, , United Kingdom
+Date: 10/26/2019
+==========================================================
+Venue: The SSE Hydro
+Location: Glasgow, , United Kingdom
+Date: 10/28/2019
+==========================================================
+Venue: First Direct Arena
+Location: Leeds, , United Kingdom
+Date: 10/30/2019
+==========================================================
+Venue: 3Arena
+Location: Dublin, , Ireland
+Date: 11/01/2019
+==========================================================
+Venue: SSE Arena
+Location: Belfast, , United Kingdom
+Date: 11/03/2019
+==========================================================
+Venue: Moda Center
+Location: Portland, OR, United States
+Date: 11/19/2019
+==========================================================
+Venue: Chase Center
+Location: San Francisco, CA, United States
+Date: 11/21/2019
+==========================================================
+Venue: Gila River Arena
+Location: Glendale, AZ, United States
+Date: 11/23/2019
+==========================================================
+Venue: Pepsi Center
+Location: Denver, CO, United States
+Date: 11/25/2019
+==========================================================
+Venue: United Center
+Location: Chicago, IL, United States
+Date: 11/27/2019
+==========================================================
+Venue: Madison Square Garden
+Location: New York, NY, United States
+Date: 12/03/2019
+==========================================================
+Venue: Scotiabank Arena
+Location: Toronto, , Canada
+Date: 11/29/2019
+==========================================================
+Venue: Wells Fargo Center
+Location: Philadelphia, PA, United States
+Date: 12/06/2019
+==========================================================
+Venue: TD Garden
+Location: Boston, MA, United States
+Date: 12/08/2019
+==========================================================
+Venue: Capital One Arena
+Location: Washington, DC, United States
+Date: 12/10/2019
+==========================================================
+Venue: Smoothie King Center
+Location: New Orleans, LA, United States
+Date: 12/13/2019
+==========================================================
+Venue: Toyota Center
+Location: Houston, TX, United States
+Date: 12/15/2019
+==========================================================
+Venue: AT&T Center
+Location: San Antonio, TX, United States
+Date: 12/17/2019
+==========================================================
+Venue: American Airlines Center
+Location: Dallas, TX, United States
+Date: 12/19/2019
+==========================================================

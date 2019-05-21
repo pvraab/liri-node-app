@@ -16,6 +16,9 @@ var fs = require("fs");
 // Load the Spotify keys
 var keys = require("./keys.js");
 
+// Load the moment library
+var moment = require("moment");
+
 var spotify = new Spotify(keys.spotify);
 
 var Liri = function () {
@@ -35,9 +38,15 @@ var Liri = function () {
                             }
                         });    
                     }
+
+                    // Convert date using moment
+                    var dateArr = elem.datetime.split("T");
+                    var newDate = moment(dateArr[0],'YYYY-MM-DD');
+
+                    // Create output string
                     var outStr = "Venue: " + elem.venue.name + "\n" +
                         "Location: " + elem.venue.city + ", " + elem.venue.region + ", " + elem.venue.country + "\n" +
-                        "Date/Time: " + elem.datetime + "\n" +
+                        "Date: " + moment(newDate).format("MM/DD/YYYY") + "\n" +
                         "==========================================================";
                     console.log(outStr);
                     fs.appendFile("log.txt", outStr + "\n", function (err) {
