@@ -199,8 +199,8 @@ require("dotenv").config();
 
      * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
 * Edit the text in random.txt to test out the feature for movie-this and concert-this.
-   
-5.  Output the data to a .txt file called `log.txt`. Append each command you run to the `log.txt` file. Do not overwrite your file each time you run a command.
+  
+5.  Output the data to a .txt file called `log.txt`. Append each command you run to the `log.txt` file. Do not overwrite your file each time you run a command. This log file is at [log.txt](./log.txt)
 
 - - -
 
@@ -216,24 +216,13 @@ Create and edit this `README.md` to describe the project. Here are some resource
 
 ### Add To Your Portfolio
 
-After completing the homework please add the piece to your portfolio. Make sure to add a link to your updated portfolio in the comments section of your homework so the TAs can easily ensure you completed this step when they are grading the assignment. To receive an 'A' on any assignment, you must link to it from your portfolio.
-
-- - -
-
-### One More Thing
-
-If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
-
-**Good Luck!**
+After completing the homework please add the piece to your portfolio. Make sure to add a link to your updated portfolio in the comments section of your homework so the TAs can easily ensure you completed this step when they are grading the assignment. To receive an 'A' on any assignment, you must link to it from your portfolio. Click on my Portfolio at my portfolio page at: <https://pvraab.github.io/RaabPortfolio/>
 
 ### Results
 
 1. If you want to run this application, you will need to follow the instructions outlined in this document to git clone the app from GitHub, install the required NPM packages, and use the correct syntax to run the application in Node.js.
-2. A video is included in the repository showing the application being run for each of the four endpoints. See this video at 
-
-- Include screenshots (or a GIF/Video) of the typical user flow of your application. Make sure to include the use of Spotify, Bands in Town, and OMDB.
-- Include any other screenshots you deem necessary to help someone who has never been introduced to your application understand the purpose and function of it. This is how you will communicate to potential employers/other developers in the future what you built and why, and to show how it works.
-- Because screenshots (and well-written READMEs) are extremely important in the context of GitHub, this will be part of the grading.
-
-If you haven't written a markdown file yet, [click here for a rundown](https://guides.github.com/features/mastering-markdown/), or just take a look at the raw file of these instructions.
-
+2. A video is included in the repository showing the application being run for each of the four endpoints. See this video at this [location](./LiriProject.mp4).
+3. The concert-this function is shown [here](./images/image1.gif).
+4. The spotify-this-song is shown [here](./images/image8.gif) and [here](./images/image9.gif).
+5. The movie-this function is shown [here](./images/image13.gif).
+6. The do-what-it-says function is shown [here](./images/image14.gif).
