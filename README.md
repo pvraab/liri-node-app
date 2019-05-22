@@ -7,8 +7,8 @@ In this assignment, I developed an app named LIRI. LIRI is like iPhone's SIRI. H
 ### Detailed Functionality
 
 1. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
-2. A new GitHub repository called liri-node-app was created and cloned it to my computer.
-3. Retrieve the data that will power this app by requests using the `axios` package to the Bands in Town, Spotify and OMDB APIs. 
+2. A new GitHub repository called liri-node-app was created and cloned to my computer.
+3. We retrieve the data that will power this app by requests using the `axios` package to the Bands in Town, Spotify and OMDB APIs. 
 4. These Node packages  were crucial to this  assignment.
    * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api) - Retrieve data about songs from Spotify.
 
@@ -22,7 +22,7 @@ In this assignment, I developed an app named LIRI. LIRI is like iPhone's SIRI. H
 
 ## Submission Guide
 
-Created with and and used a standard GitHub repository at https://github.com/pvraab/liri-node-app. As this is a CLI App, it cannot be deployed to GitHub pages or Heroku. As a result l have included screenshots incorporated into a [video](./LiriProject.mp4) showing the app working with no bugs. The information about the results of this app are discussed at the end of this document in the **Results** section.
+Created with and used a standard GitHub repository at https://github.com/pvraab/liri-node-app. As this is a CLI App, it cannot be deployed to GitHub pages or Heroku. As a result I have included screenshots incorporated into a [video](./LiriProject.mp4) showing the app working with no bugs. The information about the results of this app are discussed at the end of this document in the **Results** section.
 
 ### Commits
 
@@ -44,7 +44,7 @@ The link to the Github Repository was submitted to the BootCamp Spot.
 
 3. npm install
 
-   ​	Run npm install to read the package.json and create a node_modules directory and populate it with all of the needed npm packages.
+   ​	Run npm install in the Liri directory to read the package.json and create a node_modules directory and populate it with all of the needed npm packages.
 
 4. Run the various scripts into the liri app.
 
@@ -56,8 +56,6 @@ The link to the Github Repository was submitted to the BootCamp Spot.
 
    - cd working_directory
    - git clone https://github.com/pvraab/liri-node-app.git
-
-   
 
 2. In the root of the local project run `npm init -y` &mdash; this will initialize a `package.json` file for the project. The `package.json` file is required for installing third party npm packages and saving their version numbers. Failure to initialize a `package.json` file will make it difficult  for anyone else to run the code after cloning the project since they will not know what packages are required.
 
@@ -71,7 +69,7 @@ node_modules
 
 3. Make a JavaScript file named `keys.js`.
 
-* Inside the keys.js file will manage the Spotify keys and look like this:
+* The keys.js file will manage the Spotify keys and looks like this:
 
 ```js
 console.log('this is loaded');
@@ -206,7 +204,7 @@ require("dotenv").config();
 
 ### Create a README.md
 
-Create and edit this `README.md` to describe the project. Here are some resources for creating your `README.md`. Here are some resources to help you along the way:
+Created and edited this `README.md` to describe the project. Here are some resources for creating a `README.md`. Here are some resources to help you along the way:
 
 * [About READMEs](https://help.github.com/articles/about-readmes/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -216,7 +214,7 @@ Create and edit this `README.md` to describe the project. Here are some resource
 
 ### Add To Your Portfolio
 
-After completing the homework please add the piece to your portfolio. Make sure to add a link to your updated portfolio in the comments section of your homework so the TAs can easily ensure you completed this step when they are grading the assignment. To receive an 'A' on any assignment, you must link to it from your portfolio. Click on my Portfolio at my portfolio page at: <https://pvraab.github.io/RaabPortfolio/>
+After completing the homework I added the piece to my portfolio. I added a link to my updated portfolio in the comments section of my homework so the TAs can easily ensure this step was completed when they are grading the assignment. To receive an 'A' on any assignment, it must be linked to my portfolio. Click on my Portfolio at my portfolio page at: <https://pvraab.github.io/RaabPortfolio/>
 
 ### Results
 
