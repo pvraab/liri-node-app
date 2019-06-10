@@ -2,13 +2,13 @@
 
 ### Overview
 
-In this assignment, I developed an app named LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will is a command line node app that takes in parameters and gives you back data.
+In this assignment, I developed an app named LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data.
 
 ### Detailed Functionality
 
 1. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 2. A new GitHub repository called liri-node-app was created and cloned to my computer.
-3. Retrieve the data that will power this app by requests using the `axios` package to the Bands in Town, Spotify and OMDB APIs. 
+3. We retrieve the data that will power this app by requests using the `axios` package to the Bands in Town, Spotify and OMDB APIs. 
 4. These Node packages  were crucial to this  assignment.
    * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api) - Retrieve data about songs from Spotify.
 
@@ -40,7 +40,7 @@ This project was committed at each stage of it's development. Meaningful comment
 
 3. npm install
 
-   ​	Run npm install to read the package.json and create a node_modules directory and populate it with all of the needed npm packages.
+   ​	Run npm install in the Liri directory to read the package.json and create a node_modules directory and populate it with all of the needed npm packages.
 
 4. Run the various scripts into the liri app.
 
@@ -52,8 +52,6 @@ This project was committed at each stage of it's development. Meaningful comment
 
    - cd working_directory
    - git clone https://github.com/pvraab/liri-node-app.git
-
-   
 
 2. In the root of the local project run `npm init -y` &mdash; this will initialize a `package.json` file for the project. The `package.json` file is required for installing third party npm packages and saving their version numbers. Failure to initialize a `package.json` file will make it difficult  for anyone else to run the code after cloning the project since they will not know what packages are required.
 
@@ -67,7 +65,7 @@ node_modules
 
 3. Make a JavaScript file named `keys.js`.
 
-* Inside the keys.js file will manage the Spotify keys and look like this:
+* The keys.js file will manage the Spotify keys and looks like this:
 
 ```js
 console.log('this is loaded');
