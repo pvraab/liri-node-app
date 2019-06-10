@@ -7,7 +7,7 @@ In this assignment, I developed an app named LIRI. LIRI is like iPhone's SIRI. H
 ### Detailed Functionality
 
 1. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
-2. A new GitHub repository called liri-node-app was created and cloned it to my computer.
+2. A new GitHub repository called liri-node-app was created and cloned to my computer.
 3. Retrieve the data that will power this app by requests using the `axios` package to the Bands in Town, Spotify and OMDB APIs. 
 4. These Node packages  were crucial to this  assignment.
    * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api) - Retrieve data about songs from Spotify.
@@ -20,17 +20,13 @@ In this assignment, I developed an app named LIRI. LIRI is like iPhone's SIRI. H
 
    * [DotEnv](https://www.npmjs.com/package/dotenv) - Used to mange environment data such as the Spotify keys in the .env file. 
 
-## Submission Guide
+## GitHub Repository
 
-Created with and and used a standard GitHub repository at https://github.com/pvraab/liri-node-app. As this is a CLI App, it cannot be deployed to GitHub pages or Heroku. As a result l have included screenshots incorporated into a [video](./LiriProject.mp4) showing the app working with no bugs. The information about the results of this app are discussed at the end of this document in the **Results** section.
+Created with and and used a standard GitHub repository at https://github.com/pvraab/liri-node-app. As this is a CLI App, it cannot be deployed to GitHub pages. As a result l have included screenshots incorporated into a [video](./LiriProject.mp4) showing the app working with no bugs. The information about the results of this app are discussed at the end of this document in the **Results** section.
 
 ### Commits
 
 This project was committed at each stage of it's development. Meaningful comments were used to document the development steps.
-
-### Submission on BCS
-
-The link to the Github Repository was submitted to the BootCamp Spot.
 
 ### To Download and Run from Repository
 
@@ -132,7 +128,7 @@ require("dotenv").config();
 
    * `do-what-it-says`
 
-### What Each Command Should Do
+### What Each Command Does
 
 1. `node liri.js concert-this <artist/band name here>`
 
@@ -204,19 +200,9 @@ require("dotenv").config();
 
 - - -
 
-### Create a README.md
+### Portfolio
 
-Create and edit this `README.md` to describe the project. Here are some resources for creating your `README.md`. Here are some resources to help you along the way:
-
-* [About READMEs](https://help.github.com/articles/about-readmes/)
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Typora](<https://typora.io/>) - A tool for editing markdown files.
-
-- - -
-
-### Add To Your Portfolio
-
-After completing the homework please add the piece to your portfolio. Make sure to add a link to your updated portfolio in the comments section of your homework so the TAs can easily ensure you completed this step when they are grading the assignment. To receive an 'A' on any assignment, you must link to it from your portfolio. Click on my Portfolio at my portfolio page at: <https://pvraab.github.io/RaabPortfolio/>
+Click on my Portfolio at my portfolio page at: <https://pvraab.github.io/RaabPortfolio/> to see the link to this app.
 
 ### Results
 
